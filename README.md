@@ -12,6 +12,7 @@ Ative o ambiente virtual (**você deve fazer isso sempre que for executar algum 
 
 ``` shell
 source ./env/bin/activate
+env\Scripts\activate.bat
 ```
 
 Instale as dependências com:
