@@ -26,7 +26,6 @@ python3 -m pip install -r requirements.txt --upgrade
 O material utiliza o [mkdocs](https://www.mkdocs.org/) para gerar a documentação. Para visualizar a documentação, execute o comando:
 
 ``` shell
-mkdocs serve -o
 ```
 
 Para subir ao GitHub Pages, execute o comando:
