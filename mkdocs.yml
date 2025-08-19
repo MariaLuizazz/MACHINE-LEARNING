@@ -1,8 +1,8 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
+site_name: Entrega
+site_author: Maria Luizazz
 site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+repo_url: https://github.com/MariaLuizazz/MACHINE-LEARNING
+repo_name: APRENDIZAGEM DE MÁQUINA
 
 theme:
   name: material
